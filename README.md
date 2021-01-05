@@ -4,7 +4,7 @@ This will provide a platform for showcasing your ART work. You will be getting a
 Feel free to contribute. Create an issue, let others know which algorithm or problem solving method you are planning to add. 
 Fork the repo. And make a PR!
 
-### Getting Started
+## Getting Started
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 
 * Clone your fork down to your local machine
