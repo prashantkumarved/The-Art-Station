@@ -1,4 +1,9 @@
-# The-Art-Station
+<h1 align="center">
+  The-Art-Station
+</h1>
+
+[![Author](https://img.shields.io/badge/author-prashantkumarved-yellow)](https://github.com/prashantkumarved)
+
 This will provide a platform for showcasing your ART work. You will be getting an individual section for your art work and you may also get paid for your work if someone finds interesting.
 
 Feel free to contribute. Create an issue, let others know which algorithm or problem solving method you are planning to add. 
