@@ -14,6 +14,7 @@ Fork the repo. And make a PR!
 * Commit and Push
 
   ```sh
+  $git clone https://github.com/prashantkumarved/The-Art-Station.git
   $ git add filename 
   $ git commit -m 'commit message'
   ```
