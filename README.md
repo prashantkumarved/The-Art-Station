@@ -6,6 +6,9 @@
 
 This will provide a platform for showcasing your ART work. You will be getting an individual section for your art work and you may also get paid for your work if someone finds interesting.
 
+Visit the website https://theartstation.netlify.app/
+
+
 Feel free to contribute. Create an issue, Fork the repo. And make a PR!
 
 ## Getting Started
